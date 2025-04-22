@@ -1,12 +1,10 @@
-# 👋 Olá, sou Gustavo!
+# 👋 Hi, I'm Ronald. 
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras com código. Tenho experiência em **PHP, Rust, Typescript, Node.js e React.js** e gosto de explorar novas ferramentas para resolver problemas complexos. 🚀
 
----
+I'm a passionate full-stack developer who loves solving problems with code.
 
-## 📚 Sobre mim
-- 🌱 Atualmente aprendendo: **Python**, **Rust**, **Golang**, **Nest.js**, **Next.js**.
-- 💼 Trabalhando como **Desenvolvedor PHP**, **Nest.js** e **React.js**.
+I specialize in building modern, clean, and responsive interfaces using frameworks like JavaScript, TypeScript, React, Next.js, NestJS, Vue.js, Node.js, and Laravel and Tailwind CSS.
+
 
 ---
 
@@ -15,6 +13,47 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras com código. Ten
 - **Frameworks e Bibliotecas:** React, Next.js, NestJS.
 - **Banco de Dados:** MySQL, MariaDB, Postgresql.
 - **Outros:** Git, Docker, Linux, WSL2, AWS.
+
+
+## 🛠️ Tecnologias & Ferramentas
+
+- **JavaScript / TypeScript** – Utilizado principalmente com React, Next.js e NestJS
+
+- **Rust**  – Ideal para aplicações de alta performance e sistemas mais próximos do hardware
+
+- **Go** – Ótimo para APIs e serviços back-end leves e concorrentes
+
+- **PHP** – Usado em sistemas legados e integração com CMSs como WordPress
+
+- **Python** – Bom para automações, scripts e projetos de dados
+
+## Frameworks & Bibliotecas:
+
+- **React (JS/TS)**  – Construção de interfaces modernas e responsivas
+
+- **Next.js (TS)** – Framework full-stack para aplicações React com SSR e API Routes
+
+- **Vue.js (JS/TS)** – Alternativa progressiva para construção de interfaces reativas
+
+- **NestJS (TS)** – Framework escalável para desenvolvimento de back-end com Node.js
+
+## Banco de Dados:
+
+- **MySQL / MariaDB** – Bancos relacionais amplamente usados, ideais para aplicações web
+
+- **MongoDB** – Banco NoSQL orientado a documentos, ideal para dados flexíveis
+
+- **PostgreSQL** – Banco relacional avançado com suporte robusto a dados complexos
+
+## Outros:
+
+- **Git** – Controle de versão
+
+- **Docker** – Containerização de aplicações
+
+- **Linux / WSL2** – Ambientes de desenvolvimento flexíveis e robustos
+
+- **AWS** – Serviços de nuvem como EC2, S3, RDS para deploy e escalabilidade
 
 ---
 
