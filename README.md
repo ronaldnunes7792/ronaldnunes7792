@@ -33,9 +33,4 @@ I specialize in building modern, clean, and responsive interfaces using framewor
 - [Por que escolher Rust para jogos](link-do-artigo)
 ---
 -->
-## 📬 Entre em contato comigo!
-<!-- - 🌐 [Meu site pessoal](link-do-site) -->
-- 💼 [LinkedIn](https://linkedin.com/in/gustavo-litter-6ab24b191)
-<!-- - 📧 Email: [seuemail@dominio.com](mailto:seuemail@dominio.com) -->
-💢🚧 Readme em desenvolvimento...
----
+
